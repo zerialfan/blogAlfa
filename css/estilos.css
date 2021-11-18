@@ -5,11 +5,25 @@ body{
 }
 .container{
     width: 70%;
-    padding: 1rem;
+    padding: 0px;
     text-align: center;
     border: 1px solid black;
     margin: 0 auto;
 }
 .container h1 {
     font-size: 35px;
+}
+.cabecera {
+    font-size: 22px;;
+    background: blueviolet;
+    color: aliceblue;
+    margin: 0;
+    padding: 0.5rem;
+    text-align: left;
+}
+.cabecera span{
+    padding: 5rem;
+}
+.post{
+    padding: 1rem;
 }
