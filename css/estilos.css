@@ -27,3 +27,13 @@ body{
 .post{
     padding: 1rem;
 }
+
+#footer { 
+    display: flex;
+    flex-flow: column;
+    text-align: center;
+    border: 1px solid black;
+    height: 20px;
+    align-items: center;
+    background-color: papayawhip;
+}
